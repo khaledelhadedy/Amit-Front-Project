@@ -10,6 +10,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        footerColor: '#212529',
+        mainColor: "#EC232B",
+        secondColor: "#56555C",
+        pColor: "#737373",
+        butColor:"#262626",
+        forgotPcolor : "#8A8A8A",
       },
     },
   },
